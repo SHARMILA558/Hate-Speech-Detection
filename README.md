@@ -28,6 +28,10 @@ The system follows this workflow:
    - Neither
 6. **Result Display:** The predicted category is displayed on the application interface.
 
+## System Architecture Diagram
+
+![Hate Speech Detection System Architecture](system-architecture.png)
+
 ## Sample Predictions
 
 | Input Text                           | Predicted Category |
