@@ -38,5 +38,10 @@ pip install -r requirements.txt
 3. Download or provide the trained model files separately.
 4. Configure the model path before running the application.
 
+## Application Preview
+
+![Hate Speech Detection Application](hate-speech-demo.png)
+
 ## Author
+
 Sharmila Shaik
