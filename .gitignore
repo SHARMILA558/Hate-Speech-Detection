@@ -1,0 +1,21 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large model files
+model/
+HateSpeechAI_model/
+HateSpeechAI_model.zip
+
+# System files
+.DS_Store
+Thumbs.db
